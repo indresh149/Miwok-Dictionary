@@ -1,6 +1,6 @@
 # Miwok-Dictionary
 
-![alt tag](https://i.imgur.com/9iODu3X.png)
+![alt tag](https://i.imgur.com/1JDXY6L.jpg)
 ![alt tag](https://i.imgur.com/ZpG9j5m.png)
 ![alt tag](https://i.imgur.com/sDGTjdK.png)
 ![alt tag](https://i.imgur.com/c5QZNp4.png)
