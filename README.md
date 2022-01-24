@@ -1,10 +1,16 @@
 # Miwok-Dictionary
 
-![alt tag](https://i.imgur.com/1JDXY6L.jpg)
-![alt tag](https://i.imgur.com/ZpG9j5m.png)
-![alt tag](https://i.imgur.com/sDGTjdK.png)
-![alt tag](https://i.imgur.com/c5QZNp4.png)
-![alt tag](https://i.imgur.com/hJtT2yF.png)
-![alt tag](https://i.imgur.com/8eySGwb.png)
-![alt tag](https://i.imgur.com/dCaaWQZ.png)
-![alt tag](https://i.imgur.com/y9GkhS1.png)
+# Start-Page-Activity
+![alt tag](https://i.imgur.com/89Q4oKp.jpg)
+
+# Numbers-Activity
+![alt tag](https://i.imgur.com/2jhtDxR.jpg)
+
+# Family-Members-Activity
+![alt tag](https://i.imgur.com/dToUUQG.jpg)
+
+# Colors-Activity
+![alt tag](https://i.imgur.com/rOVH965.jpg)
+
+# Phrases-Activity
+![alt tag](https://i.imgur.com/8X3xvZk.jpg)
